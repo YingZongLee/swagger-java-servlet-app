@@ -1,6 +1,6 @@
-package com.yls.demo.interceptor;
+package com.yls.app.interceptor;
 
-import com.yls.demo.PropertyConfig;
+import com.yls.app.PropertyConfig;
 import okhttp3.HttpUrl;
 import okhttp3.Interceptor;
 import okhttp3.Request;

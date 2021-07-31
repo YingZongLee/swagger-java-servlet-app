@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.yls</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>swagger-java-servlet-app</artifactId>
     <version>1.0</version>
-    <name>demo</name>
+    <name>swagger-java-servlet-app</name>
     <packaging>war</packaging>
 
     <properties>

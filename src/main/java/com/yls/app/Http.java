@@ -1,7 +1,7 @@
-package com.yls.demo;
+package com.yls.app;
 
-import com.yls.demo.interceptor.AuthInterceptor;
-import com.yls.demo.interceptor.LoggerInterceptor;
+import com.yls.app.interceptor.AuthInterceptor;
+import com.yls.app.interceptor.LoggerInterceptor;
 import okhttp3.*;
 
 import java.io.IOException;

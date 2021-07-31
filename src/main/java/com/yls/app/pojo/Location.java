@@ -1,4 +1,4 @@
-package com.yls.demo.pojo;
+package com.yls.app.pojo;
 
 import com.google.gson.annotations.SerializedName;
 

@@ -1,4 +1,4 @@
-package com.yls.demo;
+package com.yls.app;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

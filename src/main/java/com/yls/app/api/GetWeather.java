@@ -1,11 +1,9 @@
-package com.yls.demo.api;
+package com.yls.app.api;
 
-import com.yls.demo.Http;
-import com.yls.demo.Json;
-import com.yls.demo.PropertyConfig;
-import com.yls.demo.pojo.Weather;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import com.yls.app.Http;
+import com.yls.app.Json;
+import com.yls.app.PropertyConfig;
+import com.yls.app.pojo.Weather;
 
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -13,7 +11,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.Map;
 
 /**
  * @author yunglee on 2021/07/24
